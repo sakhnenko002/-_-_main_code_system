@@ -83,7 +83,7 @@
 | TF-IDF + Naive Bayes   | 0.9230   |
 | TF-IDF + Random Forest | 0.9290   |
 | BERT-base              | 0.9564   |
-| RoBERTa-base           | 0.9757   |
+| RoBERTa-base           | 0.9839   |
 
 ### Виявлення запозичень
 
